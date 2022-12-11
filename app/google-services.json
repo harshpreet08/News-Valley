@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151288495019",
+    "project_id": "newsvalley-55a37",
+    "storage_bucket": "newsvalley-55a37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151288495019:android:1520b0b4fc71ccde6f30ee",
+        "android_client_info": {
+          "package_name": "com.example.newsvalley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151288495019-r6r1kbkobe95nadg0ebtovjnmm29qhhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdR_bXTZezVmog4P1S2mF7R8ik0OWF2Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151288495019-r6r1kbkobe95nadg0ebtovjnmm29qhhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
